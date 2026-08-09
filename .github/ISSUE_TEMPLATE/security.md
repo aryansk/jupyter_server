@@ -14,7 +14,7 @@ sensitive information here.
 Follow the [Jupyter security policy](https://jupyter.org/security):
 
 1. Open a private GitHub Security Advisory in this repository (preferred).
-2. If that is not possible, or you are unsure where the report belongs, email
+1. If that is not possible, or you are unsure where the report belongs, email
    [security@jupyter.org](mailto:security@jupyter.org).
 
 For general security guidance, see the [Jupyter Server security
